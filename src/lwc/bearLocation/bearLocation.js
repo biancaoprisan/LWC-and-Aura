@@ -16,7 +16,7 @@ export default class BearLocation extends LightningElement {
   @wire(getRecord, { recordId: '$recordId', fields: bearFields }) //the params are the recordId and the fields that we wish to retrieve
   loadBear({ error, data }) { // thanks to @wire decorator, loadBear is automatically called when the component is loaded or when the record id changes
     if (error) {
-      
+
     } else if (data) {
       // Get Bear data
       this.name =  getFieldValue(data, NAME_FIELD);
