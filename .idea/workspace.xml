@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7f8e5b7-e287-4076-81fc-15763d382e26" name="Changes" comment="new commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/New_Connection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/illuminatedCloud.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/All_Tests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IlluminatedCloud/New_Connection/OfflineSymbolTable.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/camping/camping.cmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/camping/camping.cmp-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/campingHeader/campingHeader.cmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/campingHeader/campingHeader.cmp-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/campingHeader/campingHeader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/campingList/campingList.cmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/campingList/campingList.cmp-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/harnessApp/harnessApp.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/harnessApp/harnessApp.app-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/helloHeading/helloHeading.cmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/helloHeading/helloHeading.cmp-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/helloWorld/helloWorld.cmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/helloWorld/helloWorld.cmp-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/helloWorld/helloWorld.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/helloWorld/helloWorldController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aura/helloWorld/helloWorldHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/AccountHandler.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/AccountHandler.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/BearController.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/BearController.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearList/bearList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearList/bearList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearList/bearList.js-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearLocation/bearLocation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearLocation/bearLocation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearLocation/bearLocation.js-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearMap/bearMap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearMap/bearMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearMap/bearMap.js-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearSupervisor/bearSupervisor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearSupervisor/bearSupervisor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearSupervisor/bearSupervisor.js-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearTile/bearTile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearTile/bearTile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearTile/bearTile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/bearTile/bearTile.js-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/helloWebComponent/helloWebComponent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/helloWebComponent/helloWebComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lwc/helloWebComponent/helloWebComponent.js-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticresources/ursus_park.resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticresources/ursus_park.resource-meta.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Apex Class" />
+        <option value="Lightning Application" />
+        <option value="Lightning Controller" />
+        <option value="Lightning Helper" />
+        <option value="Lightning Style" />
+        <option value="Lightning Component" />
+        <option value="Apex Metadata" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="moduleWorkspaceSettings">
+      <map>
+        <entry key="New_Connection">
+          <value>
+            <ModuleWorkspaceSettings>
+              <option name="moduleContentsLastModified" value="1656405332354" />
+            </ModuleWorkspaceSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="savedDocuments">
+              <list>
+                <AnonymousApexSavedDocument>
+                  <option name="apexLogLevel" value="FINEST" />
+                  <option name="body" value="AccountHandler.insertAccount(3);" />
+                  <option name="name" value="Anonymous Apex 1" />
+                </AnonymousApexSavedDocument>
+              </list>
+            </option>
+          </AnonymousApexSettings>
+        </option>
+        <option name="connectionWorkspaceSettings">
+          <map>
+            <entry key="Apex Trigers">
+              <value>
+                <ConnectionWorkspaceSettings />
+              </value>
+            </entry>
+            <entry key="New Connection">
+              <value>
+                <ConnectionWorkspaceSettings>
+                  <option name="buildSuccessDatesBySourceRootRelativePath">
+                    <map>
+                      <entry key="APEXCLASS:ACCOUNTHANDLER" value="1657188064000" />
+                      <entry key="AURADEFINITIONBUNDLE:CAMPING" value="1657205295000" />
+                      <entry key="AURADEFINITIONBUNDLE:CAMPINGHEADER" value="1657205243124" />
+                      <entry key="AURADEFINITIONBUNDLE:CAMPINGLIST" value="1657205129000" />
+                      <entry key="AURADEFINITIONBUNDLE:HARNESSAPP" value="1657204070899" />
+                      <entry key="AURADEFINITIONBUNDLE:HELLOHEADING" value="1657204756000" />
+                      <entry key="AURADEFINITIONBUNDLE:HELLOWORLD" value="1657205129000" />
+                      <entry key="LIGHTNINGCOMPONENTBUNDLE:BEARLIST" value="1656592264812" />
+                    </map>
+                  </option>
+                </ConnectionWorkspaceSettings>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BCLtB6JnrbtjgifPcxYKvPg3VN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7f8e5b7-e287-4076-81fc-15763d382e26" name="Changes" comment="" />
+      <created>1656405332299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656405332299</updated>
+      <workItem from="1656405333503" duration="63000" />
+      <workItem from="1656405404829" duration="706000" />
+      <workItem from="1656580191520" duration="855000" />
+      <workItem from="1656598827140" duration="1772000" />
+      <workItem from="1657185558184" duration="5689000" />
+      <workItem from="1657275399347" duration="2866000" />
+      <workItem from="1657632616089" duration="535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<!--
+ - Created by boprisan on 6/22/2022.
+ -->
+
+<!-- Hello Web Component -->
+<template>
+    <lightning-card title={capitalizedGreeting} icon-name="cutom:custom14">
+        <div class="slds-var-m-around_medium">
+            <p>Today is {currentDate}</p>
+            <lightning-input
+                    label="Name"
+                    value={greeting}
+                    onchange={handleGreetingChange}
+            ></lightning-input>
+        </div>
+    </lightning-card>
+</template>

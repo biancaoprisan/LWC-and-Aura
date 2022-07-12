@@ -1,0 +1,8 @@
+<!--
+ - Created by boprisan on 7/7/2022.
+ -->
+
+<aura:component description="helloWorld">
+    <c:helloHeading/> <!--child component-->
+    <p>Hello Lightning!</p>
+</aura:component>
