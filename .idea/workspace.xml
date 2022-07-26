@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7f8e5b7-e287-4076-81fc-15763d382e26" name="Changes" comment="new commit">
+    <list default="true" id="ec0f9d66-f602-4c36-a6d3-9d93c381725d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +13,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Apex Class" />
-        <option value="Lightning Application" />
-        <option value="Lightning Controller" />
-        <option value="Lightning Helper" />
-        <option value="Lightning Style" />
-        <option value="Lightning Component" />
         <option value="Apex Metadata" />
       </list>
     </option>
@@ -25,13 +20,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/package.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IlluminatedCloudWorkspaceSettings">
     <option name="moduleWorkspaceSettings">
       <map>
         <entry key="New_Connection">
           <value>
             <ModuleWorkspaceSettings>
-              <option name="moduleContentsLastModified" value="1656405332354" />
+              <option name="moduleContentsLastModified" value="1658741008602" />
             </ModuleWorkspaceSettings>
           </value>
         </entry>
@@ -45,7 +44,7 @@
               <list>
                 <AnonymousApexSavedDocument>
                   <option name="apexLogLevel" value="FINEST" />
-                  <option name="body" value="AccountHandler.insertAccount(3);" />
+                  <option name="body" value="List&lt;Integer&gt; l1 = new List&lt;Integer&gt;{15,19,20,22,29,65,75};&#10;&#10;List&lt;Integer&gt; l2 = new List&lt;Integer&gt;{19,20,22,29,65,70};&#10;&#10;List&lt;Integer&gt; l3 = new List&lt;Integer&gt;{22,29,65,75, 14};&#10;&#10;SetChallenge.commonElements(l1,l2,l3);" />
                   <option name="name" value="Anonymous Apex 1" />
                 </AnonymousApexSavedDocument>
               </list>
@@ -54,49 +53,40 @@
         </option>
         <option name="connectionWorkspaceSettings">
           <map>
-            <entry key="Apex Trigers">
-              <value>
-                <ConnectionWorkspaceSettings />
-              </value>
-            </entry>
             <entry key="New Connection">
               <value>
                 <ConnectionWorkspaceSettings>
                   <option name="buildSuccessDatesBySourceRootRelativePath">
                     <map>
-                      <entry key="APEXCLASS:ACCOUNTHANDLER" value="1657188064000" />
-                      <entry key="AURADEFINITIONBUNDLE:CAMPING" value="1657205295000" />
-                      <entry key="AURADEFINITIONBUNDLE:CAMPINGHEADER" value="1657205243124" />
-                      <entry key="AURADEFINITIONBUNDLE:CAMPINGLIST" value="1657205129000" />
-                      <entry key="AURADEFINITIONBUNDLE:HARNESSAPP" value="1657204070899" />
-                      <entry key="AURADEFINITIONBUNDLE:HELLOHEADING" value="1657204756000" />
-                      <entry key="AURADEFINITIONBUNDLE:HELLOWORLD" value="1657205129000" />
-                      <entry key="LIGHTNINGCOMPONENTBUNDLE:BEARLIST" value="1656592264812" />
-                      <entry key="LIGHTNINGCOMPONENTBUNDLE:BEARLOCATION" value="1657633157754" />
+                      <entry key="APEXCLASS:SETCHALLENGE" value="1658828840706" />
                     </map>
-                  </option>
-                  <option name="lastBuildScope" value="CUSTOM" />
-                  <option name="lastBuildViewToggles">
-                    <map>
-                      <entry key="RETRIEVE">
-                        <value>
-                          <BuildViewToggles>
-                            <option name="showLocalAndServer" value="false" />
-                            <option name="showLocalOnly" value="false" />
-                            <option name="showServerOnly" value="true" />
-                            <option name="showSubscribedByParent" value="false" />
-                            <option name="showSubscribedOnly" value="false" />
-                          </BuildViewToggles>
-                        </value>
-                      </entry>
-                    </map>
-                  </option>
-                  <option name="lastCustomSelectionUrls">
-                    <set>
-                      <option value="metadata://CustomObject/Account" />
-                    </set>
                   </option>
                 </ConnectionWorkspaceSettings>
+              </value>
+            </entry>
+            <entry key="Org Development">
+              <value>
+                <ConnectionWorkspaceSettings />
+              </value>
+            </entry>
+            <entry key="Taskd">
+              <value>
+                <ConnectionWorkspaceSettings />
+              </value>
+            </entry>
+            <entry key="Wise Goat">
+              <value>
+                <ConnectionWorkspaceSettings />
+              </value>
+            </entry>
+            <entry key="mydevorg">
+              <value>
+                <ConnectionWorkspaceSettings />
+              </value>
+            </entry>
+            <entry key="scratch_org">
+              <value>
+                <ConnectionWorkspaceSettings />
               </value>
             </entry>
           </map>
@@ -107,14 +97,12 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2BCLtB6JnrbtjgifPcxYKvPg3VN" />
+  <component name="ProjectId" id="2CQi28mW2JMrCZga6MlmJ9s7CZR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectReloadState">
-    <option name="STATE" value="1" />
-  </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -123,116 +111,25 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c7f8e5b7-e287-4076-81fc-15763d382e26" name="Changes" comment="" />
-      <created>1656405332299</created>
+      <changelist id="ec0f9d66-f602-4c36-a6d3-9d93c381725d" name="Changes" comment="" />
+      <created>1658741006003</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1656405332299</updated>
-      <workItem from="1656405333503" duration="63000" />
-      <workItem from="1656405404829" duration="706000" />
-      <workItem from="1656580191520" duration="855000" />
-      <workItem from="1656598827140" duration="1772000" />
-      <workItem from="1657185558184" duration="5689000" />
-      <workItem from="1657275399347" duration="2866000" />
-      <workItem from="1657632616089" duration="1273000" />
-      <workItem from="1658215356422" duration="3840000" />
+      <updated>1658741006003</updated>
+      <workItem from="1658741007715" duration="825000" />
+      <workItem from="1658757197420" duration="678000" />
+      <workItem from="1658827583980" duration="3107000" />
     </task>
-    <task id="LOCAL-00001" summary="new commit">
-      <created>1657633179082</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1657633179082</updated>
-    </task>
-    <task id="LOCAL-00002" summary="new commit">
-      <created>1657633307212</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1657633307212</updated>
-    </task>
-    <task id="LOCAL-00003" summary="new commit">
-      <created>1657633800292</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1657633800292</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="origin/master" />
-                </option>
-              </RecentGroup>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="master" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="*" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="new commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
 </project>
